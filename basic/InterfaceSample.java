@@ -36,8 +36,8 @@ public class InterfaceSample {
         System.out.println(ko6.getNameB());
 
         Ko7 ko7 = new Ko7();
-        System.out.println(ko6.getNameA());
-        System.out.println(ko6.getNameB());       
+        System.out.println(ko7.getNameA());
+        System.out.println(ko7.getNameB());       
 
     }
 }
